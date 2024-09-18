@@ -1,4 +1,4 @@
-# AXK Health Web App
+# ALX Health Web App
 
 AXK Health is a blockchain-powered health insurance platform that tokenizes user premiums, offering growth on their insurance investments while rewarding users for staying healthy. This repository is for the **AXK Health Web App**, which provides a clean interface for managing health plans, tokens, claims, and beneficiaries.
 
